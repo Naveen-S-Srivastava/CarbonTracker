@@ -1,0 +1,601 @@
+category,name,carbon,water,waste,alternatives
+Clothing,Cotton T-shirt,83.33,1248,578,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Home Goods,Lamp,45.28,3207,569,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Groceries,Detergent,43.21,2199,545,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Food,Rice (1kg),28.3,775,560,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Groceries,Shampoo,7.87,2556,620,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Groceries,Detergent,72.02,1587,995,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Clothing,Jeans,54.95,2953,742,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Groceries,Shampoo,33.53,2118,226,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Food,Rice (1kg),28.58,2852,877,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Food,Milk (1L),24.8,3856,638,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Clothing,Sweater,40.74,3115,133,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Food,Eggs (12pcs),19.91,2889,918,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Groceries,Detergent,16.67,2805,658,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Electronics,Tablet,30.06,4233,853,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Home Goods,Mattress,33.28,3808,931,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Clothing,Sweater,59.44,3577,190,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Clothing,Jeans,86.48,2880,751,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Clothing,Cotton T-shirt,59.06,1115,65,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Electronics,Headphones,76.61,4375,962,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Food,Beef (1kg),50.67,4115,424,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Food,Rice (1kg),33.19,4015,17,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Food,Eggs (12pcs),22.01,4160,341,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Electronics,Headphones,70.4,4374,150,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Home Goods,Lamp,98.51,902,291,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Groceries,Shampoo,19.85,3779,881,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Electronics,Smartphone,83.92,1680,701,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Electronics,Laptop,67.89,1428,308,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Electronics,Smartphone,59.41,4656,491,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Food,Eggs (12pcs),63.17,4217,326,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Clothing,Socks,14.86,2112,751,Eco Socks;Sustainable Socks;Recycled Socks
+Groceries,Shampoo,54.94,3897,348,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Home Goods,Table,98.44,1674,693,Eco Table;Sustainable Table;Recycled Table
+Clothing,Jeans,51.6,2701,73,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Electronics,Headphones,49.32,3949,552,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Clothing,Socks,22.49,3953,623,Eco Socks;Sustainable Socks;Recycled Socks
+Groceries,Toothpaste,41.21,1875,228,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Food,Rice (1kg),69.89,1520,391,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Clothing,Jacket,37.06,4289,942,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Clothing,Jeans,25.53,3991,71,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Food,Eggs (12pcs),14.41,1390,799,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Electronics,Laptop,2.3,4823,572,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Home Goods,Chair,69.11,161,863,Eco Chair;Sustainable Chair;Recycled Chair
+Groceries,Detergent,81.26,510,16,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Home Goods,Pillow,10.48,1683,605,Eco Pillow;Sustainable Pillow;Recycled Pillow
+Food,Eggs (12pcs),91.98,4476,750,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Groceries,Detergent,41.91,3591,297,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Groceries,Handwash,87.55,4807,69,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Home Goods,Chair,32.11,4778,499,Eco Chair;Sustainable Chair;Recycled Chair
+Food,Eggs (12pcs),76.78,3432,499,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Home Goods,Lamp,88.0,3140,604,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Home Goods,Table,46.4,2127,183,Eco Table;Sustainable Table;Recycled Table
+Electronics,Tablet,78.99,4550,534,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Electronics,Smartphone,42.62,1342,851,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Food,Bread,47.73,1973,164,Eco Bread;Sustainable Bread;Recycled Bread
+Home Goods,Table,46.45,303,358,Eco Table;Sustainable Table;Recycled Table
+Clothing,Cotton T-shirt,60.88,4800,631,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Home Goods,Chair,82.06,1071,58,Eco Chair;Sustainable Chair;Recycled Chair
+Clothing,Sweater,4.24,1178,470,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Food,Bread,31.5,140,117,Eco Bread;Sustainable Bread;Recycled Bread
+Home Goods,Mattress,78.51,1634,51,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Clothing,Cotton T-shirt,99.19,4456,258,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Clothing,Sweater,58.49,2967,66,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Food,Milk (1L),98.72,1715,864,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Groceries,Detergent,62.06,4847,244,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Clothing,Jeans,81.57,1453,409,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Groceries,Handwash,68.84,3991,254,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Food,Milk (1L),66.26,692,579,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Food,Rice (1kg),37.05,4832,969,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Clothing,Socks,62.56,2994,91,Eco Socks;Sustainable Socks;Recycled Socks
+Electronics,Laptop,30.39,3154,375,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Home Goods,Table,12.31,4949,454,Eco Table;Sustainable Table;Recycled Table
+Food,Rice (1kg),76.21,3313,499,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Food,Rice (1kg),21.14,3157,575,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Groceries,Detergent,39.51,1273,430,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Electronics,Smartwatch,61.31,214,825,Eco Smartwatch;Sustainable Smartwatch;Recycled Smartwatch
+Home Goods,Lamp,36.56,3577,450,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Clothing,Jeans,6.06,2238,622,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Clothing,Socks,70.3,1298,743,Eco Socks;Sustainable Socks;Recycled Socks
+Home Goods,Mattress,67.31,4628,910,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Food,Bread,22.56,935,23,Eco Bread;Sustainable Bread;Recycled Bread
+Clothing,Cotton T-shirt,71.87,1644,34,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Food,Beef (1kg),88.77,4366,812,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Electronics,Smartphone,50.49,1257,882,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Electronics,Smartwatch,73.03,4292,160,Eco Smartwatch;Sustainable Smartwatch;Recycled Smartwatch
+Home Goods,Chair,65.18,4104,506,Eco Chair;Sustainable Chair;Recycled Chair
+Home Goods,Table,81.39,1625,624,Eco Table;Sustainable Table;Recycled Table
+Clothing,Sweater,18.63,1533,293,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Home Goods,Chair,38.93,2813,53,Eco Chair;Sustainable Chair;Recycled Chair
+Home Goods,Chair,59.68,2132,971,Eco Chair;Sustainable Chair;Recycled Chair
+Electronics,Smartwatch,73.38,4745,760,Eco Smartwatch;Sustainable Smartwatch;Recycled Smartwatch
+Groceries,Toothpaste,89.36,3064,122,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Home Goods,Lamp,86.19,3326,35,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Clothing,Jeans,42.06,1163,763,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Home Goods,Lamp,21.24,2766,860,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Clothing,Jeans,58.66,4674,33,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Clothing,Cotton T-shirt,3.72,4049,157,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Food,Bread,10.19,1710,902,Eco Bread;Sustainable Bread;Recycled Bread
+Clothing,Cotton T-shirt,24.68,3888,981,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Clothing,Jacket,39.0,862,311,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Clothing,Cotton T-shirt,55.08,3508,478,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Clothing,Sweater,42.69,3291,112,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Home Goods,Chair,32.6,295,867,Eco Chair;Sustainable Chair;Recycled Chair
+Clothing,Jacket,64.51,2965,233,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Food,Eggs (12pcs),88.27,4386,541,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Food,Eggs (12pcs),41.86,1051,173,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Electronics,Headphones,31.11,2689,767,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Groceries,Handwash,32.15,3060,664,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Groceries,Toothpaste,25.36,1828,396,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Groceries,Shampoo,6.65,2835,764,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Electronics,Tablet,55.09,2962,602,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Home Goods,Table,39.26,1007,466,Eco Table;Sustainable Table;Recycled Table
+Clothing,Jeans,95.9,2276,274,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Clothing,Jacket,73.7,2141,653,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Clothing,Jeans,61.19,1610,909,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Clothing,Jacket,60.46,3750,32,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Groceries,Shampoo,90.35,4442,13,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Food,Rice (1kg),13.17,1808,879,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Clothing,Jacket,95.15,2420,350,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Food,Eggs (12pcs),97.62,4919,864,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Home Goods,Lamp,28.74,1199,62,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Groceries,Detergent,48.92,1191,931,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Clothing,Jacket,45.35,726,149,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Home Goods,Chair,20.36,4128,372,Eco Chair;Sustainable Chair;Recycled Chair
+Food,Beef (1kg),7.37,3778,497,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Clothing,Jacket,15.54,3596,422,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Groceries,Detergent,57.86,3212,319,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Electronics,Headphones,33.94,3005,31,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Clothing,Socks,77.3,4288,779,Eco Socks;Sustainable Socks;Recycled Socks
+Food,Milk (1L),35.17,2657,276,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Electronics,Headphones,13.55,2475,850,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Groceries,Detergent,95.73,1563,150,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Clothing,Jeans,64.53,3497,608,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Clothing,Sweater,49.27,948,111,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Clothing,Jacket,95.53,822,897,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Electronics,Headphones,54.32,3964,315,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Food,Bread,27.57,1291,244,Eco Bread;Sustainable Bread;Recycled Bread
+Food,Rice (1kg),33.49,975,181,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Groceries,Tissue Paper,7.17,3226,277,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Home Goods,Chair,39.72,4587,936,Eco Chair;Sustainable Chair;Recycled Chair
+Groceries,Detergent,43.74,1924,704,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Food,Eggs (12pcs),50.76,2880,853,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Food,Bread,42.14,366,553,Eco Bread;Sustainable Bread;Recycled Bread
+Groceries,Toothpaste,63.14,517,910,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Electronics,Laptop,53.1,4549,420,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Clothing,Socks,76.78,2948,533,Eco Socks;Sustainable Socks;Recycled Socks
+Clothing,Cotton T-shirt,99.43,2093,368,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Clothing,Sweater,69.56,2873,429,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Electronics,Tablet,72.23,2305,600,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Food,Milk (1L),22.86,1971,108,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Clothing,Cotton T-shirt,7.78,1188,199,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Food,Milk (1L),78.25,1101,383,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Electronics,Headphones,91.22,1151,611,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Clothing,Sweater,32.54,1439,259,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Electronics,Laptop,77.38,4915,596,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Food,Beef (1kg),68.49,205,193,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Home Goods,Lamp,31.83,2346,661,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Home Goods,Lamp,10.37,969,587,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Groceries,Detergent,15.9,1564,28,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Clothing,Socks,61.32,760,358,Eco Socks;Sustainable Socks;Recycled Socks
+Food,Eggs (12pcs),51.59,4950,222,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Home Goods,Pillow,8.56,625,200,Eco Pillow;Sustainable Pillow;Recycled Pillow
+Electronics,Laptop,24.65,4652,685,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Clothing,Sweater,91.26,2772,184,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Electronics,Smartphone,84.09,2047,330,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Clothing,Jacket,86.02,2569,236,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Clothing,Jacket,37.74,4892,428,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Groceries,Shampoo,85.13,3693,645,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Home Goods,Chair,90.33,4666,413,Eco Chair;Sustainable Chair;Recycled Chair
+Home Goods,Lamp,3.2,798,506,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Home Goods,Chair,91.31,2402,466,Eco Chair;Sustainable Chair;Recycled Chair
+Home Goods,Chair,93.02,2044,328,Eco Chair;Sustainable Chair;Recycled Chair
+Electronics,Laptop,13.93,4094,232,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Electronics,Headphones,38.02,4991,463,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Groceries,Shampoo,61.16,1231,146,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Clothing,Sweater,41.23,1871,592,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Groceries,Detergent,53.59,504,400,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Home Goods,Chair,51.59,3886,394,Eco Chair;Sustainable Chair;Recycled Chair
+Home Goods,Lamp,62.52,4935,840,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Home Goods,Lamp,70.31,218,535,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Groceries,Toothpaste,2.78,3441,916,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Electronics,Tablet,41.67,4195,609,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Home Goods,Lamp,39.33,230,988,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Home Goods,Table,57.97,4225,552,Eco Table;Sustainable Table;Recycled Table
+Clothing,Socks,30.19,3025,602,Eco Socks;Sustainable Socks;Recycled Socks
+Groceries,Shampoo,27.29,4548,111,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Electronics,Tablet,65.98,342,522,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Electronics,Laptop,41.66,2523,104,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Food,Rice (1kg),24.65,3416,430,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Clothing,Jeans,1.03,1613,316,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Groceries,Detergent,21.07,914,167,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Home Goods,Mattress,32.03,683,265,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Food,Beef (1kg),42.69,1629,194,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Home Goods,Chair,73.61,2607,259,Eco Chair;Sustainable Chair;Recycled Chair
+Food,Bread,5.26,3057,508,Eco Bread;Sustainable Bread;Recycled Bread
+Electronics,Headphones,88.78,4810,27,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Clothing,Socks,23.12,1109,507,Eco Socks;Sustainable Socks;Recycled Socks
+Home Goods,Pillow,75.52,4684,443,Eco Pillow;Sustainable Pillow;Recycled Pillow
+Groceries,Shampoo,9.33,3758,251,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Clothing,Jacket,50.19,4297,737,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Home Goods,Lamp,11.25,3510,924,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Food,Eggs (12pcs),5.01,1272,279,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Electronics,Headphones,4.69,3675,954,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Electronics,Tablet,41.04,4192,432,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Food,Bread,69.67,4933,20,Eco Bread;Sustainable Bread;Recycled Bread
+Home Goods,Lamp,12.82,1394,320,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Clothing,Jeans,37.29,4288,354,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Home Goods,Mattress,43.45,708,548,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Groceries,Toothpaste,57.02,1910,492,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Clothing,Socks,51.61,1565,319,Eco Socks;Sustainable Socks;Recycled Socks
+Food,Bread,6.08,503,632,Eco Bread;Sustainable Bread;Recycled Bread
+Home Goods,Pillow,77.75,2104,873,Eco Pillow;Sustainable Pillow;Recycled Pillow
+Food,Milk (1L),53.66,685,372,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Home Goods,Lamp,93.82,3378,777,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Home Goods,Mattress,85.0,4308,369,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Home Goods,Mattress,2.0,2171,56,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Groceries,Handwash,87.26,1496,88,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Clothing,Cotton T-shirt,36.68,356,941,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Home Goods,Lamp,32.72,3403,278,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Groceries,Detergent,26.88,4743,13,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Home Goods,Chair,54.91,4492,922,Eco Chair;Sustainable Chair;Recycled Chair
+Food,Beef (1kg),14.38,2568,71,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Groceries,Toothpaste,52.07,2369,264,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Groceries,Detergent,89.8,3069,955,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Home Goods,Chair,70.02,3175,788,Eco Chair;Sustainable Chair;Recycled Chair
+Electronics,Headphones,69.34,718,548,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Groceries,Handwash,63.03,1006,197,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Electronics,Laptop,43.02,1158,913,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Groceries,Toothpaste,25.56,292,749,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Food,Eggs (12pcs),84.21,3580,695,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Clothing,Cotton T-shirt,4.1,4773,424,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Groceries,Toothpaste,20.57,3752,77,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Groceries,Handwash,33.03,1657,867,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Clothing,Jacket,14.71,1817,414,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Clothing,Sweater,82.58,3227,281,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Groceries,Detergent,12.46,418,895,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Groceries,Toothpaste,25.75,1048,503,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Food,Beef (1kg),38.05,3773,209,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Home Goods,Mattress,74.23,3188,319,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Electronics,Headphones,30.29,3108,558,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Groceries,Toothpaste,19.36,4196,381,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Groceries,Shampoo,40.24,4903,816,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Home Goods,Mattress,8.66,2547,10,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Food,Milk (1L),21.65,4309,966,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Home Goods,Mattress,23.36,4059,484,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Groceries,Detergent,95.4,492,382,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Groceries,Tissue Paper,12.55,3655,47,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Home Goods,Table,72.32,901,619,Eco Table;Sustainable Table;Recycled Table
+Electronics,Smartphone,4.15,1405,399,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Home Goods,Pillow,15.11,378,169,Eco Pillow;Sustainable Pillow;Recycled Pillow
+Home Goods,Chair,10.75,1049,502,Eco Chair;Sustainable Chair;Recycled Chair
+Home Goods,Mattress,45.48,4144,949,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Electronics,Smartphone,48.46,1693,202,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Food,Eggs (12pcs),52.19,158,335,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Clothing,Jeans,69.8,3279,836,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Electronics,Smartphone,62.11,4889,515,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Home Goods,Chair,97.46,1573,727,Eco Chair;Sustainable Chair;Recycled Chair
+Clothing,Jacket,62.94,2330,124,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Electronics,Laptop,88.15,2188,22,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Groceries,Handwash,2.33,3271,428,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Clothing,Socks,92.34,2054,300,Eco Socks;Sustainable Socks;Recycled Socks
+Groceries,Tissue Paper,70.03,4757,951,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Home Goods,Lamp,87.3,3884,216,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Clothing,Jeans,57.44,2232,942,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Home Goods,Table,81.11,770,559,Eco Table;Sustainable Table;Recycled Table
+Food,Rice (1kg),80.36,4520,360,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Food,Milk (1L),59.84,1139,780,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Clothing,Jacket,97.63,747,340,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Groceries,Tissue Paper,69.13,3895,940,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Clothing,Socks,27.24,480,750,Eco Socks;Sustainable Socks;Recycled Socks
+Clothing,Jeans,45.56,3990,593,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Groceries,Shampoo,90.89,4744,210,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Clothing,Socks,71.77,1016,686,Eco Socks;Sustainable Socks;Recycled Socks
+Clothing,Jeans,97.25,3053,491,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Clothing,Cotton T-shirt,98.97,1913,261,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Electronics,Smartwatch,2.68,1230,487,Eco Smartwatch;Sustainable Smartwatch;Recycled Smartwatch
+Clothing,Cotton T-shirt,19.49,2225,381,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Home Goods,Table,91.08,3024,420,Eco Table;Sustainable Table;Recycled Table
+Electronics,Smartwatch,73.98,4915,114,Eco Smartwatch;Sustainable Smartwatch;Recycled Smartwatch
+Electronics,Tablet,40.55,1624,688,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Electronics,Smartwatch,13.54,3100,25,Eco Smartwatch;Sustainable Smartwatch;Recycled Smartwatch
+Clothing,Sweater,34.27,3052,19,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Food,Beef (1kg),77.15,4925,147,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Clothing,Jeans,42.1,4420,184,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Clothing,Socks,29.87,394,248,Eco Socks;Sustainable Socks;Recycled Socks
+Food,Milk (1L),96.46,2257,621,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Food,Rice (1kg),48.29,3491,166,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Clothing,Sweater,17.01,265,591,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Food,Rice (1kg),29.74,2491,745,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Electronics,Headphones,64.92,4855,416,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Groceries,Shampoo,15.8,4360,807,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Food,Beef (1kg),72.08,1990,870,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Clothing,Cotton T-shirt,18.53,4670,320,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Groceries,Detergent,30.25,1789,205,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Home Goods,Lamp,30.07,459,307,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Groceries,Toothpaste,22.32,2455,397,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Groceries,Shampoo,64.52,985,26,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Food,Beef (1kg),54.02,1347,371,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Electronics,Smartwatch,71.79,2184,97,Eco Smartwatch;Sustainable Smartwatch;Recycled Smartwatch
+Food,Beef (1kg),73.92,1628,699,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Clothing,Sweater,47.91,819,905,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Electronics,Headphones,29.05,4023,80,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Food,Rice (1kg),30.17,2551,253,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Groceries,Detergent,79.63,1324,470,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Groceries,Shampoo,84.27,4042,860,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Electronics,Headphones,23.36,2603,728,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Groceries,Handwash,33.37,3473,470,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Electronics,Laptop,21.14,4443,634,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Electronics,Headphones,75.79,288,681,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Electronics,Laptop,48.8,4849,836,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Food,Eggs (12pcs),45.23,4334,85,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Home Goods,Table,69.83,862,599,Eco Table;Sustainable Table;Recycled Table
+Clothing,Jeans,12.18,522,777,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Groceries,Tissue Paper,36.01,927,425,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Clothing,Sweater,2.99,4645,548,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Clothing,Socks,80.43,3271,82,Eco Socks;Sustainable Socks;Recycled Socks
+Food,Bread,88.62,220,648,Eco Bread;Sustainable Bread;Recycled Bread
+Clothing,Jacket,54.73,4861,493,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Electronics,Headphones,25.82,4890,79,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Clothing,Cotton T-shirt,4.39,3539,88,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Electronics,Smartwatch,91.85,435,953,Eco Smartwatch;Sustainable Smartwatch;Recycled Smartwatch
+Food,Eggs (12pcs),66.71,1803,361,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Clothing,Cotton T-shirt,69.39,2740,241,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Groceries,Tissue Paper,91.3,2248,785,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Electronics,Smartphone,6.54,910,765,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Clothing,Jeans,20.64,1623,254,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Groceries,Handwash,48.69,4231,982,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Electronics,Smartphone,37.71,2065,579,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Food,Milk (1L),39.7,1827,525,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Groceries,Detergent,14.44,1116,897,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Groceries,Shampoo,41.46,535,162,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Groceries,Shampoo,87.12,1924,336,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Groceries,Shampoo,48.06,1557,220,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Clothing,Jeans,16.72,314,895,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Home Goods,Pillow,17.01,1435,632,Eco Pillow;Sustainable Pillow;Recycled Pillow
+Home Goods,Mattress,46.26,3362,106,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Clothing,Sweater,80.25,1718,184,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Clothing,Jacket,7.99,4991,220,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Clothing,Sweater,59.37,4924,993,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Home Goods,Chair,6.55,1520,62,Eco Chair;Sustainable Chair;Recycled Chair
+Home Goods,Mattress,12.27,3050,333,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Food,Bread,76.3,4304,283,Eco Bread;Sustainable Bread;Recycled Bread
+Home Goods,Table,67.82,4712,398,Eco Table;Sustainable Table;Recycled Table
+Food,Beef (1kg),17.42,3871,588,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Home Goods,Mattress,84.32,2668,621,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Groceries,Shampoo,31.09,1950,202,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Food,Milk (1L),29.82,552,652,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Electronics,Headphones,50.21,3864,274,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Groceries,Shampoo,65.03,1619,885,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Groceries,Handwash,92.63,1623,656,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Clothing,Jeans,93.18,1000,347,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Groceries,Handwash,63.84,3644,801,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Home Goods,Chair,10.17,2920,230,Eco Chair;Sustainable Chair;Recycled Chair
+Electronics,Headphones,95.24,3155,673,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Food,Rice (1kg),42.97,1675,900,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Home Goods,Table,70.8,3767,432,Eco Table;Sustainable Table;Recycled Table
+Clothing,Jacket,1.97,1100,233,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Clothing,Socks,22.44,2985,684,Eco Socks;Sustainable Socks;Recycled Socks
+Home Goods,Chair,53.27,3417,117,Eco Chair;Sustainable Chair;Recycled Chair
+Home Goods,Lamp,93.61,2133,83,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Home Goods,Chair,90.88,2783,971,Eco Chair;Sustainable Chair;Recycled Chair
+Home Goods,Pillow,42.3,1649,257,Eco Pillow;Sustainable Pillow;Recycled Pillow
+Clothing,Jeans,2.91,2531,86,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Food,Rice (1kg),9.26,3202,883,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Groceries,Handwash,60.51,1753,608,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Home Goods,Pillow,7.53,978,877,Eco Pillow;Sustainable Pillow;Recycled Pillow
+Home Goods,Chair,43.36,738,315,Eco Chair;Sustainable Chair;Recycled Chair
+Food,Eggs (12pcs),24.47,1269,422,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Home Goods,Table,99.97,2249,599,Eco Table;Sustainable Table;Recycled Table
+Groceries,Handwash,23.06,945,606,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Electronics,Headphones,9.48,128,113,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Clothing,Sweater,72.32,2125,767,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Clothing,Cotton T-shirt,55.81,4040,446,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Clothing,Jeans,88.25,4815,865,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Clothing,Sweater,79.28,1729,369,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Home Goods,Mattress,3.15,3263,83,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Electronics,Tablet,49.7,839,398,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Home Goods,Mattress,88.4,372,814,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Food,Eggs (12pcs),28.7,3969,907,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Food,Bread,38.0,4971,680,Eco Bread;Sustainable Bread;Recycled Bread
+Clothing,Jeans,96.59,2708,266,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Groceries,Detergent,99.6,3537,916,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Groceries,Handwash,16.22,2263,908,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Food,Beef (1kg),96.32,3619,310,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Clothing,Jeans,24.37,1831,315,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Food,Rice (1kg),1.37,3856,614,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Clothing,Cotton T-shirt,99.23,447,452,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Food,Bread,22.15,204,735,Eco Bread;Sustainable Bread;Recycled Bread
+Groceries,Tissue Paper,67.26,4403,806,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Home Goods,Table,68.18,126,139,Eco Table;Sustainable Table;Recycled Table
+Home Goods,Table,54.34,3328,652,Eco Table;Sustainable Table;Recycled Table
+Groceries,Tissue Paper,1.19,4523,835,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Food,Bread,49.43,1434,664,Eco Bread;Sustainable Bread;Recycled Bread
+Food,Milk (1L),48.14,3617,522,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Clothing,Jeans,9.44,3461,91,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Food,Eggs (12pcs),71.56,1574,354,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Food,Milk (1L),72.51,4670,878,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Clothing,Jacket,51.51,1833,107,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Electronics,Headphones,2.61,2010,232,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Food,Rice (1kg),7.09,1793,601,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Home Goods,Chair,80.66,534,602,Eco Chair;Sustainable Chair;Recycled Chair
+Food,Beef (1kg),79.13,4871,79,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Groceries,Shampoo,49.12,2777,599,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Electronics,Tablet,70.51,2919,930,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Clothing,Socks,14.36,4987,546,Eco Socks;Sustainable Socks;Recycled Socks
+Clothing,Jeans,45.06,4688,253,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Food,Rice (1kg),78.58,1401,239,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Food,Bread,5.81,2993,317,Eco Bread;Sustainable Bread;Recycled Bread
+Electronics,Tablet,31.37,2217,676,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Electronics,Smartwatch,58.71,446,309,Eco Smartwatch;Sustainable Smartwatch;Recycled Smartwatch
+Groceries,Detergent,77.45,2912,179,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Food,Beef (1kg),63.81,558,582,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Clothing,Sweater,46.18,2031,250,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Groceries,Shampoo,32.82,1153,760,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Electronics,Laptop,71.77,2666,229,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Groceries,Detergent,1.98,1555,250,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Food,Rice (1kg),62.63,2233,405,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Home Goods,Mattress,9.6,723,475,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Food,Milk (1L),36.87,4180,697,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Electronics,Smartphone,37.48,3009,67,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Electronics,Tablet,60.67,3958,866,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Groceries,Handwash,64.37,1711,175,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Home Goods,Mattress,18.16,988,410,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Electronics,Headphones,19.35,4277,882,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Home Goods,Chair,29.25,3507,867,Eco Chair;Sustainable Chair;Recycled Chair
+Home Goods,Lamp,6.15,4010,153,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Clothing,Cotton T-shirt,81.6,4788,794,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Food,Milk (1L),92.77,3836,465,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Clothing,Sweater,26.37,171,396,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Clothing,Socks,65.12,1313,240,Eco Socks;Sustainable Socks;Recycled Socks
+Clothing,Jeans,21.08,2769,401,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Electronics,Headphones,24.16,751,376,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Clothing,Jacket,13.16,3179,990,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Groceries,Toothpaste,5.79,3047,127,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Home Goods,Table,44.38,4424,756,Eco Table;Sustainable Table;Recycled Table
+Groceries,Toothpaste,39.31,988,11,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Food,Rice (1kg),1.47,4312,887,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Home Goods,Pillow,64.19,3913,932,Eco Pillow;Sustainable Pillow;Recycled Pillow
+Electronics,Headphones,79.31,2503,120,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Clothing,Jacket,75.23,3155,833,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Groceries,Handwash,4.74,4962,887,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Groceries,Tissue Paper,11.41,2614,573,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Clothing,Cotton T-shirt,50.07,3525,679,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Electronics,Headphones,10.57,2533,48,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Electronics,Headphones,23.79,2429,727,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Groceries,Handwash,42.37,4569,60,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Clothing,Socks,31.87,1386,264,Eco Socks;Sustainable Socks;Recycled Socks
+Home Goods,Chair,74.15,2317,962,Eco Chair;Sustainable Chair;Recycled Chair
+Electronics,Smartphone,6.82,4656,360,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Groceries,Shampoo,51.0,4370,219,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Electronics,Smartwatch,71.31,3120,571,Eco Smartwatch;Sustainable Smartwatch;Recycled Smartwatch
+Electronics,Headphones,9.78,2295,621,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Clothing,Socks,72.29,3334,735,Eco Socks;Sustainable Socks;Recycled Socks
+Food,Milk (1L),64.35,4633,768,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Clothing,Jeans,1.92,2391,193,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Clothing,Cotton T-shirt,56.0,3533,922,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Clothing,Sweater,46.36,4564,285,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Groceries,Handwash,40.04,3999,189,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Electronics,Tablet,28.3,4804,978,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Electronics,Smartwatch,70.01,1315,823,Eco Smartwatch;Sustainable Smartwatch;Recycled Smartwatch
+Groceries,Toothpaste,13.83,242,803,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Clothing,Jacket,19.41,2700,910,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Electronics,Headphones,46.93,991,728,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Food,Rice (1kg),72.38,2835,770,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Groceries,Toothpaste,80.37,4010,172,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Clothing,Jeans,81.88,3643,71,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Home Goods,Chair,20.39,1771,285,Eco Chair;Sustainable Chair;Recycled Chair
+Groceries,Shampoo,23.34,3277,478,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Groceries,Handwash,6.79,3535,545,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Groceries,Shampoo,7.32,3436,500,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Groceries,Tissue Paper,60.62,1423,611,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Clothing,Socks,31.71,3455,107,Eco Socks;Sustainable Socks;Recycled Socks
+Home Goods,Lamp,69.02,3719,380,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Home Goods,Chair,57.01,679,899,Eco Chair;Sustainable Chair;Recycled Chair
+Groceries,Tissue Paper,54.45,1980,549,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Home Goods,Lamp,62.05,3230,376,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Electronics,Smartphone,9.53,1216,948,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Home Goods,Mattress,69.47,1525,676,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Groceries,Shampoo,37.05,137,88,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Food,Beef (1kg),59.36,188,606,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Groceries,Shampoo,26.11,3365,49,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Clothing,Jeans,99.58,1420,555,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Electronics,Laptop,55.87,3906,207,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Home Goods,Lamp,81.28,3684,27,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Clothing,Socks,80.14,1998,434,Eco Socks;Sustainable Socks;Recycled Socks
+Electronics,Tablet,95.68,2084,983,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Home Goods,Pillow,23.53,2293,541,Eco Pillow;Sustainable Pillow;Recycled Pillow
+Home Goods,Mattress,55.24,1777,189,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Clothing,Cotton T-shirt,83.51,4235,680,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Food,Bread,27.37,4072,847,Eco Bread;Sustainable Bread;Recycled Bread
+Groceries,Shampoo,29.49,2643,183,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Groceries,Tissue Paper,10.75,2617,488,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Electronics,Headphones,93.49,890,117,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Home Goods,Chair,77.74,2882,162,Eco Chair;Sustainable Chair;Recycled Chair
+Groceries,Toothpaste,87.5,3994,366,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Food,Bread,23.36,404,711,Eco Bread;Sustainable Bread;Recycled Bread
+Clothing,Cotton T-shirt,52.57,4636,814,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Clothing,Socks,5.27,2602,375,Eco Socks;Sustainable Socks;Recycled Socks
+Home Goods,Chair,2.5,4411,910,Eco Chair;Sustainable Chair;Recycled Chair
+Food,Rice (1kg),83.55,3461,512,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Food,Eggs (12pcs),57.13,741,235,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Groceries,Handwash,31.35,791,233,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Electronics,Smartphone,90.25,2773,398,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Food,Bread,55.91,2525,694,Eco Bread;Sustainable Bread;Recycled Bread
+Groceries,Toothpaste,35.91,3107,664,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Home Goods,Table,61.11,4322,899,Eco Table;Sustainable Table;Recycled Table
+Home Goods,Lamp,25.88,445,573,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Electronics,Smartwatch,28.13,116,469,Eco Smartwatch;Sustainable Smartwatch;Recycled Smartwatch
+Food,Rice (1kg),56.2,3118,802,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Electronics,Smartphone,78.8,946,352,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Groceries,Shampoo,1.34,793,498,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Electronics,Laptop,13.04,1489,604,Eco Laptop;Sustainable Laptop;Recycled Laptop
+Food,Beef (1kg),96.71,2568,315,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Clothing,Cotton T-shirt,47.92,2181,321,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Groceries,Toothpaste,68.94,560,964,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Electronics,Headphones,2.14,2398,102,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Home Goods,Chair,29.9,4757,163,Eco Chair;Sustainable Chair;Recycled Chair
+Home Goods,Pillow,7.15,2980,777,Eco Pillow;Sustainable Pillow;Recycled Pillow
+Home Goods,Chair,2.66,2344,430,Eco Chair;Sustainable Chair;Recycled Chair
+Home Goods,Chair,94.72,4405,574,Eco Chair;Sustainable Chair;Recycled Chair
+Home Goods,Lamp,33.21,3448,436,Eco Lamp;Sustainable Lamp;Recycled Lamp
+Electronics,Tablet,6.48,625,196,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Clothing,Jacket,54.57,4530,889,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Food,Eggs (12pcs),39.38,3857,434,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Home Goods,Table,20.23,253,879,Eco Table;Sustainable Table;Recycled Table
+Clothing,Jeans,71.07,835,624,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Groceries,Shampoo,15.06,3296,330,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Groceries,Tissue Paper,42.04,2074,176,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Food,Bread,63.15,198,331,Eco Bread;Sustainable Bread;Recycled Bread
+Home Goods,Mattress,29.89,4415,109,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Electronics,Smartphone,94.74,709,629,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Food,Milk (1L),56.31,4343,569,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Groceries,Detergent,85.09,4998,274,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Groceries,Shampoo,27.64,3497,236,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Food,Milk (1L),91.75,2820,978,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Groceries,Tissue Paper,92.9,575,871,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Groceries,Shampoo,37.52,4235,313,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Groceries,Detergent,33.57,1826,131,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Clothing,Jacket,87.03,3156,816,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Groceries,Detergent,46.17,4819,519,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Clothing,Socks,28.0,4696,662,Eco Socks;Sustainable Socks;Recycled Socks
+Electronics,Headphones,55.28,1155,403,Eco Headphones;Sustainable Headphones;Recycled Headphones
+Groceries,Handwash,29.18,3324,728,Eco Handwash;Sustainable Handwash;Recycled Handwash
+Clothing,Socks,49.26,2335,217,Eco Socks;Sustainable Socks;Recycled Socks
+Groceries,Shampoo,95.05,2810,250,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Electronics,Tablet,6.12,2331,580,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Groceries,Toothpaste,60.22,297,404,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Groceries,Toothpaste,30.55,934,700,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Food,Milk (1L),50.54,1064,164,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Clothing,Cotton T-shirt,47.9,2192,758,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Home Goods,Mattress,39.82,1389,585,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Food,Rice (1kg),74.49,4031,335,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Food,Bread,62.65,1559,558,Eco Bread;Sustainable Bread;Recycled Bread
+Groceries,Detergent,2.58,3660,279,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Clothing,Sweater,78.14,1406,511,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Electronics,Smartphone,20.8,648,778,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Food,Beef (1kg),31.06,1200,487,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Electronics,Tablet,98.1,2866,200,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Food,Eggs (12pcs),77.06,2051,88,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Home Goods,Pillow,34.14,4975,353,Eco Pillow;Sustainable Pillow;Recycled Pillow
+Food,Beef (1kg),72.34,1428,113,Eco Beef (1kg);Sustainable Beef (1kg);Recycled Beef (1kg)
+Clothing,Sweater,94.86,3659,777,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Home Goods,Table,90.43,2772,781,Eco Table;Sustainable Table;Recycled Table
+Home Goods,Chair,10.78,2914,338,Eco Chair;Sustainable Chair;Recycled Chair
+Food,Bread,6.14,3161,215,Eco Bread;Sustainable Bread;Recycled Bread
+Electronics,Tablet,7.05,916,579,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Clothing,Socks,76.51,1428,103,Eco Socks;Sustainable Socks;Recycled Socks
+Home Goods,Pillow,32.71,4831,678,Eco Pillow;Sustainable Pillow;Recycled Pillow
+Home Goods,Chair,59.88,4517,516,Eco Chair;Sustainable Chair;Recycled Chair
+Electronics,Smartphone,81.35,3547,309,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Food,Eggs (12pcs),49.54,2158,89,Eco Eggs (12pcs);Sustainable Eggs (12pcs);Recycled Eggs (12pcs)
+Food,Rice (1kg),20.85,266,565,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Groceries,Shampoo,50.07,2675,603,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Food,Bread,91.98,4722,221,Eco Bread;Sustainable Bread;Recycled Bread
+Clothing,Sweater,64.82,3494,207,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Electronics,Smartphone,93.36,1361,272,Eco Smartphone;Sustainable Smartphone;Recycled Smartphone
+Groceries,Toothpaste,19.86,1724,813,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Electronics,Tablet,84.07,1815,677,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Clothing,Cotton T-shirt,31.62,4987,693,Eco Cotton T-shirt;Sustainable Cotton T-shirt;Recycled Cotton T-shirt
+Home Goods,Mattress,68.54,4460,413,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Groceries,Tissue Paper,63.68,4505,298,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Groceries,Detergent,94.11,3233,896,Eco Detergent;Sustainable Detergent;Recycled Detergent
+Clothing,Jacket,91.21,1256,476,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Electronics,Smartwatch,93.33,4342,378,Eco Smartwatch;Sustainable Smartwatch;Recycled Smartwatch
+Groceries,Shampoo,2.6,4437,796,Eco Shampoo;Sustainable Shampoo;Recycled Shampoo
+Clothing,Jacket,50.03,4829,152,Eco Jacket;Sustainable Jacket;Recycled Jacket
+Groceries,Toothpaste,29.84,2942,562,Eco Toothpaste;Sustainable Toothpaste;Recycled Toothpaste
+Home Goods,Chair,59.99,1949,805,Eco Chair;Sustainable Chair;Recycled Chair
+Food,Rice (1kg),26.3,3961,790,Eco Rice (1kg);Sustainable Rice (1kg);Recycled Rice (1kg)
+Home Goods,Mattress,34.53,3626,930,Eco Mattress;Sustainable Mattress;Recycled Mattress
+Home Goods,Table,86.01,658,540,Eco Table;Sustainable Table;Recycled Table
+Clothing,Sweater,8.31,4200,636,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Clothing,Sweater,38.97,2303,460,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Food,Milk (1L),86.1,4824,175,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Clothing,Sweater,16.71,4573,133,Eco Sweater;Sustainable Sweater;Recycled Sweater
+Groceries,Tissue Paper,94.19,2853,334,Eco Tissue Paper;Sustainable Tissue Paper;Recycled Tissue Paper
+Home Goods,Pillow,26.67,2548,695,Eco Pillow;Sustainable Pillow;Recycled Pillow
+Clothing,Jeans,52.27,1454,406,Eco Jeans;Sustainable Jeans;Recycled Jeans
+Food,Milk (1L),3.76,483,37,Eco Milk (1L);Sustainable Milk (1L);Recycled Milk (1L)
+Electronics,Tablet,24.66,928,854,Eco Tablet;Sustainable Tablet;Recycled Tablet
+Home Goods,Lamp,74.5,668,562,Eco Lamp;Sustainable Lamp;Recycled Lamp
